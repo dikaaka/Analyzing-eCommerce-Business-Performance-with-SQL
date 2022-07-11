@@ -17,3 +17,5 @@ Including the processes calculation of MAU (Monthly Active User), new customers 
 Including the processes calculation of top product category, top product revenue, most canceled product, most canceled product's order numbers, and total canceled customers. All of revenue's currency is set as '$'.
 ### **Analysis of Annual Payment Type Usage**
 Including the processes calculation of customer's payment type favorite.
+## NOTE
+I presented the result of each progress in Bahasa Indonesia
