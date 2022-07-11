@@ -5,7 +5,7 @@ The database has 8 datasets which contain information of orders, order_items, or
 ### Data Source
 If any of you curious about the database or wanna to try by yourself, feel free to access the database from [here.](https://drive.google.com/file/d/1kTAm3Va5oIaW2WazncRuVtgJkQhPELCx/view?usp=sharing)
 ## Tools
-I've used various tools on this project. Since the objective of this project was analyzing with SQL so I've used postgreSQL as my **RDBMS platform**. Then for visualization I've used **Jupyter Notebook with python programming language**.
+I've used various tools on this project. Since the objective of this project was analyzing with SQL so I've used **postgreSQL** as my RDBMS platform. Then for visualization I've used **Jupyter Notebook with python programming language**.
 ## Contents
 ### **Introduction**
 The short brief of my background.
