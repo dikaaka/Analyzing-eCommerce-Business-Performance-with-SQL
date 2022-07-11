@@ -18,4 +18,4 @@ Including the processes calculation of top product category, top product revenue
 ### **Analysis of Annual Payment Type Usage**
 Including the processes calculation of customer's payment type favorite.
 ## NOTE
-I presented the result of each progress in Bahasa Indonesia
+I presented the result of each progress in Bahasa Indonesia.
