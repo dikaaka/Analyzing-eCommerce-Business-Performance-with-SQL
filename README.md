@@ -7,15 +7,13 @@ If any of you curious about the database or wanna to try by yourself, feel free 
 ## Tools
 I've used various tools on this project. Since the objective of this project was analyzing with SQL so I've used **postgreSQL** as my RDBMS platform. Then for visualization I've used **Jupyter Notebook with python programming language**.
 ## Contents
-### **Introduction**
-The short brief of my background.
 ### **Data Preparation**
 Including the processes of generate tables, import it's data/attributes/values, define primary and foreign key and generate ERD (Entity Relationship Diagram).
 ### **Annual Customer Activity Growth Analysis**
-Including the processes calculation of MAU (Monthly Active User), new customers and repeat order customers.
+Including the calculation processes of MAU (Monthly Active User), new customers and repeat order customers.
 ### **Annual Product Category Quality Analysis**
-Including the processes calculation of top product category, top product revenue, most canceled product, most canceled product's order numbers, and total canceled customers. All of revenue's currency is set as '$'.
+Including the calculation processes of top product category, top product revenue, most canceled product, most canceled product's order numbers, and total canceled customers. All of revenue's currency is set as '$'.
 ### **Analysis of Annual Payment Type Usage**
-Including the processes calculation of customer's payment type favorite.
+Including the calculation processes of customer's payment type favorite.
 ## NOTE
 I presented the result of each progress in Bahasa Indonesia.
